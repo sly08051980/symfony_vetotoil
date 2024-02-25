@@ -1,3 +1,9 @@
 body {
-    background-color: skyblue;
+    background-color: lightgrey;
+}
+.navbar {
+    background: linear-gradient(white, purple);
+}
+.espacemain{
+    padding-top: 5rem;
 }
